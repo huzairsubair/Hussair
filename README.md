@@ -1,2 +1,1 @@
-# husu
-pups madichu thaa 
+# pups madichu thaa 
